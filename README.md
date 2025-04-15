@@ -26,5 +26,4 @@ Este proyecto implementa una **Máquina de Snacks** en Python, que permite gesti
 El programa principal se encuentra en `maquinaSnacksApp.py`. Para ejecutarlo, simplemente corre el archivo:
 
 ```bash
-python [maquinaSnacksApp.py](http://_vscodecontentref_/0)
-=======
+python [maquinaSnacksApp.py]
