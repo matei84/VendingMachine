@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Máquina de Snacks
 
 Este proyecto implementa una **Máquina de Snacks** en Python, que permite gestionar un inventario de snacks y realizar compras simuladas. El proyecto utiliza conceptos de **POO (Programación Orientada a Objetos)**, como clases, encapsulamiento, herencia y manejo de archivos.
