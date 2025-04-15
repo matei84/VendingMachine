@@ -28,5 +28,3 @@ El programa principal se encuentra en `maquinaSnacksApp.py`. Para ejecutarlo, si
 ```bash
 python [maquinaSnacksApp.py](http://_vscodecontentref_/0)
 =======
-# VendingMachine
->>>>>>> cf79ae73dc273cde87a35e908248d6a5d4e63232
