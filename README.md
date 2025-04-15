@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Máquina de Snacks
 
 Este proyecto implementa una **Máquina de Snacks** en Python, que permite gestionar un inventario de snacks y realizar compras simuladas. El proyecto utiliza conceptos de **POO (Programación Orientada a Objetos)**, como clases, encapsulamiento, herencia y manejo de archivos.
@@ -27,3 +28,6 @@ El programa principal se encuentra en `maquinaSnacksApp.py`. Para ejecutarlo, si
 
 ```bash
 python [maquinaSnacksApp.py](http://_vscodecontentref_/0)
+=======
+# VendingMachine
+>>>>>>> cf79ae73dc273cde87a35e908248d6a5d4e63232
